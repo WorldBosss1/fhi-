@@ -1,0 +1,7 @@
+build/
+.vscode/
+*.py[cgo]
+*.egg-info/
+.tox/
+dist/
+.idea/
