@@ -1,0 +1,4 @@
+*.py[cgo]
+*.egg-info/
+.tox/
+dist/
