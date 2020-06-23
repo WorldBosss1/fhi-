@@ -1,0 +1,11 @@
+.vscode/
+*.py[cgo]
+*.egg-info/
+.tox/
+dist/
+.idea/
+build/
+
+# Code coverage output
+.coverage
+htmlcov/
