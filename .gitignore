@@ -1,0 +1,14 @@
+.vscode/
+*.py[cgo]
+*.egg-info/
+.tox/
+dist/
+.idea/
+build/
+Pipfile
+Pipfile.lock
+
+# Code coverage output
+.coverage
+.ledger/
+htmlcov/
